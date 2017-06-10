@@ -1,6 +1,6 @@
 import random #importamos la libreria ramdom que ocuparemos para que nos de numeros al azar 
 
-continuar = 1  #le decimos al usuario que 1 es para empezar el juego
+continuar = 1  #declaramos continuar en 1
 
 while continuar == 1: #imprimimos mensajes para que el jugador elija  la dificultad 
 	print("bienvenido a master mind")
