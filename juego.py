@@ -2,7 +2,7 @@ import random #importamos la libreria ramdom que ocuparemos para que nos de nume
 
 continuar = 1  #declaramos continuar en 1
 
-while continuar == 1: #imprimimos mensajes para que el jugador elija  la dificultad 
+while continuar == 1: #si variable continuar es igual a 1, iniciamos el bucle while con mensajes en pantalla
 	print("bienvenido a master mind")
 	print("elija la dificultad  del juego <1=Facil, 2=Dificil, 3=Muy Dicifil")
 	dificultad = int(input("Digite el Numero de Dificultad: "))
